@@ -1,0 +1,53 @@
+Initialize engine version: 5.3.0f4 (2524e04062b4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 440  (ID=0xde0)
+    Vendor:   NVIDIA
+    VRAM:     977 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: \\StuHome\HomeDrive4$\1201844\Unity Projects\SuperScreenSnakev0.14\SuperScreenSnakev0.14\Screensnake_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading \\StuHome\HomeDrive4$\1201844\Unity Projects\SuperScreenSnakev0.14\SuperScreenSnakev0.14\Screensnake_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: \\StuHome\HomeDrive4$\1201844\Unity Projects\SuperScreenSnakev0.14\SuperScreenSnakev0.14\Screensnake_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading \\StuHome\HomeDrive4$\1201844\Unity Projects\SuperScreenSnakev0.14\SuperScreenSnakev0.14\Screensnake_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: \\StuHome\HomeDrive4$\1201844\Unity Projects\SuperScreenSnakev0.14\SuperScreenSnakev0.14\Screensnake_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading \\StuHome\HomeDrive4$\1201844\Unity Projects\SuperScreenSnakev0.14\SuperScreenSnakev0.14\Screensnake_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: \\StuHome\HomeDrive4$\1201844\Unity Projects\SuperScreenSnakev0.14\SuperScreenSnakev0.14\Screensnake_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading \\StuHome\HomeDrive4$\1201844\Unity Projects\SuperScreenSnakev0.14\SuperScreenSnakev0.14\Screensnake_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  1.043 seconds
+Platform assembly: \\StuHome\HomeDrive4$\1201844\Unity Projects\SuperScreenSnakev0.14\SuperScreenSnakev0.14\Screensnake_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: \\StuHome\HomeDrive4$\1201844\Unity Projects\SuperScreenSnakev0.14\SuperScreenSnakev0.14\Screensnake_Data\Managed\System.dll (this message is harmless)
+desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.196553 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 10a0 -> priority: 1 
+NullReferenceException: Object reference not set to an instance of an object
+  at Player.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.154071 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 245.
+Total: 0.775480 ms (FindLiveObjects: 0.027581 ms CreateObjectMapping: 0.022449 ms MarkObjects: 0.713904 ms  DeleteObjects: 0.010583 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.OnTriggerEnter2D (UnityEngine.Collider2D collider) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.OnTriggerEnter2D (UnityEngine.Collider2D collider) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.867204 ms
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 208.
+Total: 0.310448 ms (FindLiveObjects: 0.017318 ms CreateObjectMapping: 0.021166 ms MarkObjects: 0.243420 ms  DeleteObjects: 0.027901 ms)
+

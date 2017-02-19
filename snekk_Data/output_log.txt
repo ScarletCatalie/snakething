@@ -1,0 +1,88 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6380G (ID=0x9643)
+    Vendor:   ATI
+    VRAM:     1260 MB
+    Driver:   9.12.0.0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Jack\Documents\Unity Projects\SuperScreenSnakev0.14\snekk_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Jack\Documents\Unity Projects\SuperScreenSnakev0.14\snekk_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Jack\Documents\Unity Projects\SuperScreenSnakev0.14\snekk_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Jack\Documents\Unity Projects\SuperScreenSnakev0.14\snekk_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Jack\Documents\Unity Projects\SuperScreenSnakev0.14\snekk_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Jack\Documents\Unity Projects\SuperScreenSnakev0.14\snekk_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Jack\Documents\Unity Projects\SuperScreenSnakev0.14\snekk_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Jack\Documents\Unity Projects\SuperScreenSnakev0.14\snekk_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Jack\Documents\Unity Projects\SuperScreenSnakev0.14\snekk_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Jack\Documents\Unity Projects\SuperScreenSnakev0.14\snekk_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.496 seconds
+Platform assembly: C:\Users\Jack\Documents\Unity Projects\SuperScreenSnakev0.14\snekk_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Jack\Documents\Unity Projects\SuperScreenSnakev0.14\snekk_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.136397 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at Player.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.009116 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 339.
+Total: 0.618920 ms (FindLiveObjects: 0.084916 ms CreateObjectMapping: 0.039323 ms MarkObjects: 0.422872 ms  DeleteObjects: 0.069528 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.760828 ms
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 296.
+Total: 0.571618 ms (FindLiveObjects: 0.108282 ms CreateObjectMapping: 0.038183 ms MarkObjects: 0.349923 ms  DeleteObjects: 0.072378 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Player.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.232712 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 339.
+Total: 0.503799 ms (FindLiveObjects: 0.067819 ms CreateObjectMapping: 0.035334 ms MarkObjects: 0.384688 ms  DeleteObjects: 0.014817 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.OnTriggerEnter2D (UnityEngine.Collider2D collider) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.OnTriggerEnter2D (UnityEngine.Collider2D collider) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.OnTriggerEnter2D (UnityEngine.Collider2D collider) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.OnTriggerEnter2D (UnityEngine.Collider2D collider) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.817818 ms
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 296.
+Total: 0.616641 ms (FindLiveObjects: 0.100303 ms CreateObjectMapping: 0.044452 ms MarkObjects: 0.386968 ms  DeleteObjects: 0.083206 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Player.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1a94 -> priority: 1 
